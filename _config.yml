@@ -1,3 +1,7 @@
+name: Beer
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.764232
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.764232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4108485
-  brandStrength: 0.4085591
-  lightness: 0.7610097
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  rhythmicContrast: 0.8125672
-layout_spectrum: 1
-name: Beer
+  brandStrength: 0.3125
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.75
+purpose: []
