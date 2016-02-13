@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Beer]]></title>
         <description><![CDATA[Beer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 00:34:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 03:27:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sourcing Coffee Beans]]></title>
+            <description><![CDATA[<article><h1>Sourcing Coffee Beans</h1><p>Coffee beer 2.0: Brewers get serious about sourcing, treatment of beans http://flip.it/PsmqS</p><img src="http://draftmag.com/wp-content/uploads/2016/02/Epic-Brewing-Coffee-12.jpg"></article>]]></description>
+            <link>https://thegrid.ai/beer/sourcing-coffee-beans/index.html</link>
+            <guid isPermaLink="false">13ec2c8b-7e05-4df6-a219-461efdc8fb3a</guid>
+            <pubDate>Sat, 13 Feb 2016 03:26:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beers for Winter Sipping]]></title>
-            <description><![CDATA[<article><h1>Beers for Winter Sipping</h1><p>8 decadent beers for winter sipping http://flip.it/x5vCZ</p><img src="http://draftmag.com/wp-content/uploads/2016/01/DECADENT-BEER.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Beers for Winter Sipping</h1><p>8 decadent beers for winter sipping http://flip.it/x5vCZ</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27962e59662a3e540039a2aff6dc2d68e409ea98.jpg"></article>]]></description>
             <link>http://flip.it/x5vCZ</link>
             <guid isPermaLink="false">eb996545-cdff-4161-87c4-b12d773dab84</guid>
             <pubDate>Sat, 13 Feb 2016 00:34:36 GMT</pubDate>
