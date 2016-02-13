@@ -1,7 +1,7 @@
 name: Beer
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.764232
+typography_spectrum: 0.26829
 collections:
   - index:
       path: /
